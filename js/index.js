@@ -3,7 +3,7 @@
  */
 FastClick.attach(document.body);
 //动态设定rem的根值
-document.getElementById("audioMusic").volume = 0.25;
+// document.getElementById("audioMusic").volume = 0.25;
 //REM适配
 ~(function(desW){
     var winW = document.documentElement.clientWidth;
